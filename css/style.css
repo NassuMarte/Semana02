@@ -1,0 +1,182 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 55px;
+	padding-bottom: 75px;
+
+	background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+
+}
+
+.boton0{
+	margin: 0 auto;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 90px;
+}
+.contenedor
+{
+	margin: 0 auto;
+	width: 800px;
+	border: 3px solid white;
+	background: white
+
+}
+
+
+
+header{
+	margin: 0 auto;
+	width: 800px;
+	border: 2px solid white;
+}
+
+
+.logo{
+	margin:0 auto;
+	padding-top: 50px;
+	border: 2px solid white;
+	width: 300px;
+	
+}
+
+h2 {
+	color: #AEADB3;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	word-spacing: 5px;
+	letter-spacing: 4px;
+	margin-top:-20px;
+	margin-bottom: 30px;
+
+}
+
+
+.botones {
+margin:0 auto;
+border: 2px solid white;
+width: 700px;
+padding: 40px;
+
+}
+
+button {
+	background-color: #CC6B7B;
+	text-transform: uppercase;
+	border: 0px;
+	text-transform: uppercase;
+	border-radius: 50px;
+	width: 150px;
+	margin-left:30px;
+	margin-right: 30px;
+
+}
+
+
+
+h3 {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	word-spacing: 5px;
+	letter-spacing: 4px;
+	padding: 5px;
+	
+
+}
+
+h1 {
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	letter-spacing: 4px;
+	padding-top: 20px;
+
+}
+
+img {
+	padding-bottom: 50px;
+}
+
+.boton1:hover {
+
+	background-color: #C5D663;
+}
+
+.boton2:hover {
+
+	background-color: #5BA8A3;
+}
+
+.boton3:hover {
+
+	background-color: #3A2C4F;
+}
+a {
+	text-decoration: none;
+}
+
+.preview {
+	margin:0 auto;
+	width: 700px;
+	}
+.logo2{
+
+	text-align: left;
+	size: 50%;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+.boton4 {
+	background-color: #5BA8A3;
+}
+
+.boton5 {
+	background-color: #C5D663;
+}
+
+.boton6 {
+	background-color: #3A2C4F;
+}
+
+.libro3 {
+	width: 700px;
+	height: 500px;
+margin:0 auto;
+}
+
+
+iframe{
+	margin-bottom: 50px;
+}
+.libro1{
+	float: left;
+	margin-left: 70px;
+}
+p {
+	float:left;
+	margin-left: 50px;
+	margin-top: 30px;
+
+	text-align: justify;
+	width: 300px;
+	padding-bottom: 65px;
+
+}
+
+.boton8 {
+float:left;
+margin-left: 70px;
+}
+
+.boton8:hover {
+	background: #C5D663;
+}
+
+.end {
+width: 800px;
+background-color: white;}
